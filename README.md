@@ -1,4 +1,5 @@
-## Hi everyone, my name is Lucas, I'm a Backend Developer and a Computer Science student!
+## Hi everyone,
+## I'm a Backend Developer and a Computer Science student!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
